@@ -1,0 +1,21 @@
+{
+  "type": "module",
+  "name": "adventOfCode",
+  "version": "1.0.0",
+  "description": "adventOfCode challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juchiang77608/adventofcode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juchiang77608/adventofcode/issues"
+  },
+  "homepage": "https://github.com/juchiang77608/adventofcode#readme"
+}
